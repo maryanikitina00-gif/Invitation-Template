@@ -19,51 +19,39 @@
     },
     "quotes": [
         {
-            "text": "The best way to predict the future is to create it.",
-            "author": "Peter Drucker"
+            "text": "фит мадонны и мэссив аттак в 2006ом - это пик.",
+            "author": "Поля"
         }
     ],
-    "social": {
-        "instagram": "https://www.instagram.com/"
+    "
     },
     "event": {
-        "title": "Launch Day 2026",
-        "subtitle": "Innovation, Networking & Celebration",
-        "description": "Celebrate the unveiling of our latest product! Expect demos, keynote talks, networking, and a few surprises along the way."
+        "title": "Девичник",
+        "subtitle": "Миньоны приглашают Вас отпраздновать девичник",
+        "description": "Крадем тебя на вечер, ответ нет не принимается."
     },
     "datetime": {
-        "date": "2027-10-05",
-        "startTime": "02:00 PM",
-        "endTime": "08:00 PM",
+        "date": "2026-11-13",
+        "startTime": "5:00 PM",
+        "endTime": "11:00 PM",
         "timezone": "local",
         "allDay": false
     },
     "location": {
-        "name": "TechSphere Hall",
-        "address": "101 Innovation Drive, Metropolis",
-        "mapsLink": "https://www.google.com/maps"
+        "name": "Начинаем тут ",
+        "address": "Каменноостровский, 12",
+        "mapsLink": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://yandex.ru/maps/org/perekaty/186024106528/&ved=2ahUKEwjI2cL3lfGXAxV8QvEDHS6MJwEQFnoECBAQAQ&usg=AOvVaw03ySMfFnm4VkThUyQgWtjL"
     },
     "schedule": [
         {
-            "time": "02:00 PM",
-            "label": "Guest Arrival & Registration"
+            "time": "5:00 PM",
+            "label": "Одеваемся красиво, но удобно"
         },
         {
-            "time": "02:30 PM",
-            "label": "Opening Keynote"
+            "time": "7:00 PM",
+            "label": "Укладка, макияж приветствуются"
         },
-        {
-            "time": "03:30 PM",
-            "label": "Product Demo & Showcase"
-        },
-        {
-            "time": "05:00 PM",
-            "label": "Networking & Refreshments"
-        },
-        {
-            "time": "06:30 PM",
-            "label": "Celebration & Closing Remarks"
-        }
+        
     ],
     "rsvp": {
         "enabled": true,
@@ -99,22 +87,6 @@
         "volume": 0.3,
         "audioUrl": "https://raw.githubusercontent.com/Rainier-PS/Invitation-Template/main/media/audio/chill-abstract_intention.mp3"
     },
-    "footer": {
-        "text": "Warning: Some tech jargon may appear. Networking is encouraged.",
-        "branding": {
-            "link": "https://rainier-ps.github.io/",
-            "logoUrl": "https://raw.githubusercontent.com/Rainier-PS/rainier-ps.github.io/main/images/site/Rainier%20Logo-Primary.svg",
-            "logoAlt": "Logo"
-        },
-        "credits": {
-            "designByLabel": "Created & Designed by",
-            "copyrightYear": "2026",
-            "authorName": "Elliot Stackman",
-            "templateLabel": "Template by",
-            "templateAuthor": "Rainier Pearson Saputra",
-            "templateLink": "https://rainier-ps.github.io/",
-            "repoLabel": "Open Repository",
-            "repoLink": "https://github.com/Rainier-PS/Invitation-Template"
         }
     }
 }
